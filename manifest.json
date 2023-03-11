@@ -1,0 +1,23 @@
+{
+	"name":"Click & Win",
+	"short_name":"Click & Win",
+	"start_url":"index.html",
+	"display":"standalone",
+	"background_color":"#000000",
+	"theme_color":"black",
+	"scope": ".",
+	"description":"Sixth One",
+	"icons":[
+	{
+	"src":"images/hw.png",					
+	"sizes":"192x192",
+	"type":"image/png"
+	},
+	{
+	"src":"images/icon.png",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
+
